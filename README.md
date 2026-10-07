@@ -1,5 +1,7 @@
-## Hi there 👋
+## hi
 
+Education/Work:
+🏫 [2023-2027] Brest State A.S. Pushkin University - Applied Mathematics
 <!--
 **avuzuku/avuzuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
