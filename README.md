@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Aliaksandr Vazheika
 
-<p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
 # Education/Work:
 * 🏫 [2023-2027] Brest State A.S. Pushkin University - Applied Mathematics
 
