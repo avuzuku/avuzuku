@@ -81,27 +81,14 @@
 
 <div align="center">
   <h2>GitHub Analytics</h2>
-</div>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=avuzuku&show_icons=true&bg_color=050508&title_color=7aa2f7&text_color=9ece6a&icon_color=bb9af7&border_color=1a1b26&hide_border=false" 
-          alt="GitHub Stats" 
-        />
-      </td>
-      <td align="center" valign="middle">
-        <img 
-          src="https://github-stats-extended.vercel.app/api/top-langs?username=avuzuku&layout=donut&theme=tokyonight&langs_count=8&hide_border=false&border_color=1a1b26" 
-          alt="Top Languages" 
-        />
-      </td>
-    </tr>
-  </table>
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=avuzuku&layout=donut&theme=tokyonight&langs_count=8&hide_border=true" 
+    alt="Top Languages" 
+  />
 
-  <br/>
+  <br/><br/>
+
   <img 
     src="https://streak-stats.demolab.com?user=avuzuku&theme=tokyonight&background=050508&border=1A1B26&stroke=7aa2f7&ring=bb9af7&fire=7aa2f7&currStreakNum=ffffff&sideNums=a9b1d6&currStreakLabel=7aa2f7&sideLabels=9ece6a" 
     alt="GitHub Streak" 
