@@ -29,4 +29,9 @@
 - **Gaming & Media:** Video games, Visual Novels, Manga & Anime culture
 - **Music:** Passionate music lover with an eclectic taste
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avuzuku&layout=donut&theme=tokyonight&langs_count=10)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=avuzuku&layout=donut&theme=tokyonight&langs_count=10"
+    alt="Top Languages"
+  />
+</p>
