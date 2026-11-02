@@ -29,3 +29,4 @@
 - **Gaming & Media:** Video games, Visual Novels, Manga & Anime culture
 - **Music:** Passionate music lover with an eclectic taste
 
+![Top Langs](https://vercel.app)
