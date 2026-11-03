@@ -48,7 +48,7 @@
   **Languages**  
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,rust,c,assembly&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,rust,c&theme=dark" alt="Languages" />
   </a>
   <br/><br/>
 
